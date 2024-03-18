@@ -16,7 +16,7 @@ public class Kalkulator {
         }
 
         // Wprowadzenie operatora matematycznego
-        System.out.println("Podaj operator (+, -, *, /): ");
+        System.out.println("Podaj operator (+, -, *, /, =): ");
         String operator = scanner.next();
 
         // Wprowadzenie drugiej liczby
@@ -30,7 +30,7 @@ public class Kalkulator {
         }
 
         // Obliczenia na podstawie operatora
-        System.out.println("Wynik:");
+        //System.out.println("Wynik:");
         int wynik;
 
         switch (operator) {
@@ -56,6 +56,13 @@ public class Kalkulator {
                     System.out.println(wynik);
                 } else {
                     System.out.println("Nie można dzielić przez zero.");
+                }
+                break;
+            case "=":
+                if(pierwszaLiczba == drugaLiczba){
+                    System.out.println("Liczby są równe.");
+                }else{
+                    System.out.println("liczby nie są równe.");
                 }
                 break;
             default:
