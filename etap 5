@@ -1,2 +1,20 @@
-Cel:
+CEL PROJEKTU 
+Program to prosty kalkulator posiadający funkcje takie jak dodawanie, odejmowanie, mnożenie i dzielenie. 
 
+UŻYTE TECHNOLOGIE 
+Java 
+
+INTERFACE 
+Interface programu to konsola, w której użytkownik wpisuje liczby i znak. 
+
+INTERAKCJA Z UŻYTKOWNIKIEM 
+Po włączeniu programu w konsoli użytkownik proszony jest o wpisanie pierwszej liczby potem wpisuje znak (jeden z podanych) i drugą liczbę a po naciśnięciu enter wyświetlany jest wynik. 
+
+DALSZY ROZWÓJ 
+Do aplikacji zostanie dodane zapętlenie programu. 
+
+PREZENTACJA FUNKCJONALNOSĆI 
+Projekt w większości ukończony i już działa będzie on tylko rozwijany. 
+
+DOKUMENTACJA 
+W projekcie zostało dodane sprawdzanie czy liczby są sobie równe. Wszystko działa poprawnie
