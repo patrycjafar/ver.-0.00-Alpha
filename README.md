@@ -30,6 +30,9 @@ AKUTALIZACJA: W kodzie zostało zastosowane 5 zasad cleadn code.
               ![obraz](https://github.com/patrycjafar/ver.-0.00-Alpha/assets/149515421/8d03e94d-0eb5-426d-a544-2840b8d224ec)
               ![obraz](https://github.com/patrycjafar/ver.-0.00-Alpha/assets/149515421/ba42c2bf-2ef3-4f4d-838e-68f17e57d3b7)
 
+Debugowanie:
+W kodzie wykryto błąd w postaci braku :. Problem szybko został rozwiązany prostą metodą analizy napisanego kodu i przy pomocy Intelija, który podśiwtlił istaniejący błąd 
+
 
 
 
