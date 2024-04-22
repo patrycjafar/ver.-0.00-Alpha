@@ -8,7 +8,7 @@
 
 * **WYKORZYSTANE TECHNOLOGIE:** Język to Java. Pisałam program w IntelIJ.
 
-* JAK ODPALIĆ?** Aby włączyć program trzeba pobrać IntelIJ. Tu znajduje się link do pobrania https://www.jetbrains.com/idea/download/?section=windows trzeba przejechać na dół strony by znaleźć bezpłatną wersję IntelliJ IDEA Community Edition. Następnie należy skopiować kod z pliku PROJOP.java i uruchomić u góry strony. 
+* **JAK ODPALIĆ?** Aby włączyć program trzeba pobrać IntelIJ. Tu znajduje się link do pobrania https://www.jetbrains.com/idea/download/?section=windows trzeba przejechać na dół strony by znaleźć bezpłatną wersję IntelliJ IDEA Community Edition. Następnie należy skopiować kod z pliku PROJOP.java i uruchomić u góry strony. 
 
 
 
