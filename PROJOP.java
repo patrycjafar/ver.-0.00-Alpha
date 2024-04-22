@@ -50,7 +50,7 @@ public class Kalkulator {
                 System.out.println(wynik);
                 break;
             case "/":
-                // Dzielenie zabezpieczone przed dzieleniem przez zero
+                // Dzielenie zabezpieczone przed dzieleniem przez zero h
                 if (drugaLiczba != 0) {
                     wynik = pierwszaLiczba / drugaLiczba;
                     System.out.println(wynik);
